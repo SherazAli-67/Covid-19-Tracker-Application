@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker Application</string>
+    <string name="corona_global">Corona Virus Global</string>
+    <string name="corona_countryvise">Pakistan</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total_case_numbers">1234542</string>
+    <string name="deaths">Deaths</string>
+    <string name="death_numbers">100101</string>
+    <string name="new_case_numbers">1234</string>
+    <string name="recovered">Recovered</string>
+    <string name="recovered_numbers">112121221</string>
+    <string name="new_cases">New</string>
+    <string name="health_status">Report your COVID-19 health status</string>
+    <string name="health_status_text">Take one minute every day to report your health status and help us map the coronavirus prevail faster</string>
+
+
+</resources>
